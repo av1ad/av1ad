@@ -4,7 +4,7 @@
     <a href="(https://www.linkedin.com/in/aviad-churaman-80b248209/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="#" target="_blank">
+    <a href="https://jewelsonmyjeans.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/My Portfolio-orange?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
