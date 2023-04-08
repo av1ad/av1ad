@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://jewelsonmyjeans.github.io/portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/My Portfolio-orange?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/My Portfolio-purple?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=jewelsonmyjeans&style=flat-square&color=red" alt=""/>
