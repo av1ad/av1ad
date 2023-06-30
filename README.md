@@ -18,7 +18,6 @@
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I love learning new concepts and ideas! :)
 
 - 💻 I’m currently working on building tons of Frontend projects!
-- 🌱 I’m currently learning more about React!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aviad-churaman-80b248209/) [Email](mailto:aviadchuraman@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really love cats 🐈‍⬛
