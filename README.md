@@ -38,4 +38,4 @@ height="40"/>&nbsp;
 
 ## 📊 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jewelsonmyjeans&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jewelsonmyjeans&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
