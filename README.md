@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EzaDZiMnV2cHMyOGJtaXM0bXcwdG93ZjFtc3JkdjVlbjYxc2syeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" alt="animated gif of a cat typing on a laptop" width="200" />
   <div id="badges">
-    <a href="https://www.linkedin.com/in/aviad-churaman-80b248209/" target="_blank">
+    <a href="https://www.linkedin.com/in/aviad-churaman/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://jewelsonmyjeans.github.io/portfolio/" target="_blank">
