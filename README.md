@@ -40,5 +40,5 @@ height="40"/>&nbsp;
 </div>
 
 ## 📊 My Stats:
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelsonmyjeans&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jewelsonmyjeans&theme=dark&hide_border=true&exclude_days=Sun%2CSat&fire=B284EB&ring=B284EB&currStreakLabel=9F6DEB)](https://git.io/streak-stats)
