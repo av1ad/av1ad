@@ -19,6 +19,7 @@ I'm a web developer who enjoys building applications using frontend languages an
 
 - 💻 I’m currently working on react project!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aviad-churaman-80b248209/) [Email](mailto:aviadchuraman@gmail.com)
+- 📂 Check out my portfolio: [aviadchuraman.com](https://aviadchuraman.com)
 - 😄 Pronouns: he/him
 
 ## :hammer_and_wrench: Languages and Tools
