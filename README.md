@@ -4,11 +4,11 @@
     <a href="https://www.linkedin.com/in/aviad-churaman/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://jewelsonmyjeans.github.io/portfolio/" target="_blank">
+    <a href="https://av1ad.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/My Portfolio-purple?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=jewelsonmyjeans&style=flat-square&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=av1ad&style=flat-square&color=red" alt=""/>
   <a href="https://wakatime.com/@8f1c83e4-0c95-4158-a5f8-a1af308a40a6"><img src="https://wakatime.com/badge/user/8f1c83e4-0c95-4158-a5f8-a1af308a40a6.svg" alt="Total time coded since Aug 27 2021" /></a>
   <h1> Hello my name is Aviad! <img src="https://media0.giphy.com/media/xAqHUL21pMHe0/giphy.webp?cid=ecf05e475up5uxbcoj8fnypzp8hido5wg8faik3ox2jgxfno&rid=giphy.webp&ct=s" alt="animated gif of a cat waving" width="50"> </h1>
 </div>
@@ -48,6 +48,6 @@ I'm a web developer who enjoys building applications using frontend languages an
 </div>
 
 ## 📊 My Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelsonmyjeans&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av1ad&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=av1ad&theme=dark&hide_border=true&exclude_days=Sun%2CSat&fire=B284EB&ring=B284EB&currStreakLabel=9F6DEB)](https://git.io/streak-stats)
-![LeetCode Stats](https://leetcard.jacoblin.cool/jewelsonmyjeans?theme=dark&font=Questrial)
+![LeetCode Stats](https://leetcard.jacoblin.cool/av1ad?theme=dark&font=Questrial)
