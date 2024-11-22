@@ -48,6 +48,6 @@ I'm a web developer who enjoys building applications using frontend languages an
 </div>
 
 ## 📊 My Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av1ad&layout=compact)
+![Aviad's GitHub stats](https://github-readme-stats.vercel.app/api?username=av1ad&show_icons=true&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com?user=av1ad&theme=dark&hide_border=true&exclude_days=Sun%2CSat&fire=B284EB&ring=B284EB&currStreakLabel=9F6DEB)](https://git.io/streak-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/av1ad?theme=dark&font=Questrial)
