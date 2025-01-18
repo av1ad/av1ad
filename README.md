@@ -17,7 +17,7 @@
 ## About Me
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I love learning new concepts and ideas! :)
 
-- 💻 I’m currently working on react and python projects!
+- 💻 I’m currently working on a fitness app!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aviad-churaman-80b248209/) [Email](mailto:aviadchuraman@gmail.com)
 - 📂 Check out my portfolio: [aviadchuraman.com](https://aviadchuraman.com)
 - 😄 Pronouns: he/him
